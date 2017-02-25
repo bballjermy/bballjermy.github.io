@@ -1096,6 +1096,7 @@
 			background-size: cover;
 			background-repeat: no-repeat;
 			z-index: 1;
+			
 		}
 
 		body.is-article-visible #bg:after {
